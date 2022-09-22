@@ -2,6 +2,14 @@
 <h1> CLIMA TEMPO - APP </h1>
 </div>
    📃 Sobre
+<<<<<<< HEAD
+=======
+
+<br>
+
+Projeto pessoal desenvolvido para treinar as minhas habilidades como desenvolvedor web utilizando html, css e "vanilla js". <p> Foi desenvolvida uma pagina onde é possível buscar informações vindas de uma API externa onde consigo ver a temperatura, posição do vento de qualquer cidade do mundo existente.
+
+>>>>>>> ce6e3c1 (fix)
 <br>
 <br>
 
