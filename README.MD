@@ -6,9 +6,7 @@
 <br>
 
 Projeto pessoal desenvolvido para treinar as minhas habilidades como desenvolvedor web utilizando html, css e vanilla js. <p> Foi desenvolvida uma pagina onde é possivel buscar informações vindas de uma API externa onde consigo ver a temperatura, posição do vento de qualquer cidade do mundo existente.
-
 <br>
-
 ## 🚀 Tecnologias e ferramentas utilizadas
 
 - [HTML](https://en.wikipedia.org/wiki/HTML): A HyperText Markup Language, ou HTML, é a linguagem de marcação padrão para documentos projetados para serem exibidos em um navegador da web. Ele pode ser auxiliado por tecnologias como Cascading Style Sheets (CSS) e linguagens de script como JavaScript.
