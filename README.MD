@@ -37,7 +37,8 @@ Para executar o projeto foi utilizado a extensão Live Server do vscode
 ```
 
 <h2>📹 Segue abaixo um video do projeto</h2>
-<br>
+<br>[Screencast from 09-22-2022 03:04:09 PM.webm](https://user-images.githubusercontent.com/64853039/191819880-7243c94c-95c2-4896-95e6-76f5e818f7b5.webm)
+
 
 
 
