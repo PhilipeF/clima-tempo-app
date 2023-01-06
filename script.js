@@ -1,7 +1,9 @@
 document.querySelector('.busca').addEventListener('submit', async (event) => {
     event.preventDefault();
 
-    let input = document.querySelector('#searchInput').value
+    let input = document.querySelector('#searchInput').value.trim()
+
+    console.log(input)
 
     if (input !== '') {
         clearInfo();
