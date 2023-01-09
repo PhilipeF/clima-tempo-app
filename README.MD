@@ -1,17 +1,7 @@
 <div align="center">
 <h1> CLIMA TEMPO - APP </h1>
 </div>
-   📃 Sobre
-<<<<<<< HEAD
-=======
-
-<br>
-
-Projeto pessoal desenvolvido para treinar as minhas habilidades como desenvolvedor web utilizando html, css e "vanilla js". <p> Foi desenvolvida uma pagina onde é possível buscar informações vindas de uma API externa onde consigo ver a temperatura, posição do vento de qualquer cidade do mundo existente.
-
->>>>>>> ce6e3c1 (fix)
-<br>
-<br>
+<h2>📃 Sobre</h2><p>
 
 Projeto pessoal desenvolvido para treinar as minhas habilidades como desenvolvedor web utilizando html, css e vanilla js. <p> Foi desenvolvida uma pagina onde é possivel buscar informações vindas de uma API externa onde consigo ver a temperatura, posição do vento de qualquer cidade do mundo existente.
 <br>
@@ -39,7 +29,7 @@ git@github.com:PhilipeF/clima-tempo-app.git
 Execute o projeto:
 
 ```
-Para executar o projeto foi utilizado a extensão Live Server do vscode
+Para executar o projeto foi utilizado a extensão "Live Server" do vscode
 ```
 
 <h2>📹 Segue abaixo um video do projeto</h2>
@@ -53,6 +43,3 @@ Entre em contato comigo por e-mail ou pelo meu LinkedIn:
 
 <a href="mailto:philipsferreiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/philipe-ferreira-60696388/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-
-
